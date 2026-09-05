@@ -1,4 +1,4 @@
-apiVersion: eksctl.io/valapha5
+apiVersion: eksctl.io/vlapha5
 kind: ClusterConfig
 
 
@@ -12,4 +12,3 @@ managedNodeGroups:
     desiredCapacity: 3
     spot: true
 
-    
