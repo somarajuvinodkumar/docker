@@ -1,4 +1,4 @@
-apiVersion: eksctl.io/vlapha5
+apiVersion: eksctl.io/v1apha5
 kind: ClusterConfig
 
 
